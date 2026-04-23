@@ -51,7 +51,7 @@ I believe in learning things **from first principles**. I don't just use tools �
 
 | Project | Status | Description |
 |---------|--------|-------------|
-| 🔗 [Portfolio](https://aakashportfolio-mu.com) | `live` | Personal portfolio with easter eggs & click sounds |
+| 🔗 [Portfolio](https://aakashportfolio-mu.vercel.app).com) | `live` | Personal portfolio with easter eggs & click sounds |
 
 ---
 
