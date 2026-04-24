@@ -1,61 +1,62 @@
 <div align="center">
 
-```
- ________  ___    ___ 
-|\   __  \|\  \  /  /|
-\ \  \|\  \ \  \/  / /
- \ \   __  \ \    / / 
-  \ \  \ \  /     \/  
-   \ \__\ \__\__/\__\ 
-    \|__|\|__|\|__|__|  
-```
+<h2>AY · Full-Stack Engineer · CS Undergrad</h2>
 
-### `// AY` &nbsp;·&nbsp; Full-Stack Engineer &nbsp;·&nbsp; CS Undergrad
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22EFF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Who+Understands+AI;Ready+to+Build+Real+Systems" />
 
-[![Twitter](https://img.shields.io/badge/Twitter-@ezAakash-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ezAakash)
-[![GitHub](https://img.shields.io/badge/GitHub-ezAakash-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ezAakash)
-[![Email](https://img.shields.io/badge/Email-aakash.who.codes@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aakash.who.codes@gmail.com)
-[![Status](https://img.shields.io/badge/Status-Available%20for%20Hire-22c55e?style=flat-square&logo=checkmarx&logoColor=white)](#)
+<br/>
+
+<a href="https://x.com/ezAakash">
+  <img src="https://img.shields.io/badge/Twitter-@ezAakash-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+</a>
+<a href="https://github.com/ezAakash">
+  <img src="https://img.shields.io/badge/GitHub-ezAakash-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="mailto:aakash.who.codes@gmail.com">
+  <img src="https://img.shields.io/badge/Email-aakash.who.codes@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Status-Available%20for%20Hire-22c55e?style=flat-square&logo=checkmarx&logoColor=white" />
 
 </div>
 
 ---
 
-## `whoami`
+## 🧠 whoami
 
-Hey! I'm **Aakash Yadav** — a Full-Stack Engineer and final-year CS undergrad based in **Faridabad, India** 🇮🇳
+Hey! I'm **Aakash Yadav** — a Full-Stack Engineer and final-year CS undergrad based in **Faridabad, India** 🇮🇳  
 
-I believe in learning things **from first principles**. I don't just use tools — I understand them. If you need a reliable developer who dives deep to build robust systems, let's talk.
+I build systems with **first-principles thinking** — not just using tools, but understanding how they work underneath.
 
 > *"Understand the roots, not just the fruits."*
 
 ---
 
-## `./skills --list-all`
+## ⚙️ ./skills --list-all
 
-**Frontend**
-`React` `TypeScript` `HTML/CSS` `Tailwind`
+**Frontend**  
+`React` `TypeScript` `Tailwind` `HTML/CSS`
 
-**Backend**
+**Backend**  
 `Node.js` `Express` `REST APIs`
 
-**Database**
+**Database**  
 `PostgreSQL` `MongoDB` `Redis`
 
-**DevOps & Tools**
+**DevOps & Tools**  
 `Docker` `Git` `Linux` `CI/CD`
 
 ---
 
-## `ls portfolio/`
+## 📂 ls portfolio/
 
 | Project | Status | Description |
-|---------|--------|-------------|
-| 🔗 [Portfolio](https://aakashportfolio-mu.vercel.app)| `live` | Personal portfolio with easter eggs & click sounds |
+|--------|--------|-------------|
+| 🔗 [Portfolio](https://aakashportfolio-mu.vercel.app) | `live` | Interactive portfolio with easter eggs & sound design |
 
 ---
 
-## `git log --oneline --me`
+## 🧾 git log --oneline --me
+
 
 ```
 →  Building things that work, not just things that look like they work
