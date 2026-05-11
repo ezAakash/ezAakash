@@ -2,7 +2,7 @@
 
 <h2>AY · Full-Stack Engineer · CS Undergrad</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22EFF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Who+Understands+AI;Ready+to+Build+Real+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=800000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Who+Understands+AI;Ready+to+Build+Real+Systems" />
 
 <br/>
 
